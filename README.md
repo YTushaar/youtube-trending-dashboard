@@ -17,4 +17,6 @@ A Streamlit-based dashboard to visualize and analyze trending YouTube video data
 
 ## How to Run
 
-1. Install dependencies:
+1. Install dependencies:   
+2. Run the Streamlit app:
+
