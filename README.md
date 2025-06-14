@@ -1,6 +1,6 @@
 # YouTube Trending Dashboard
 
-A data visualization dashboard built with Streamlit to analyze trending YouTube videos using a mock dataset.
+A Streamlit-based dashboard to visualize and analyze trending YouTube video data using a mock dataset.
 
 ## Features
 
@@ -12,11 +12,9 @@ A data visualization dashboard built with Streamlit to analyze trending YouTube 
 ## Files
 
 - `app.py`: Streamlit app
-- `youtube_data.csv`: Dataset with 50 trending videos
-- `requirements.txt`: Project dependencies
+- `youtube_data.csv`: Sample dataset
+- `requirements.txt`: Dependencies
 
 ## How to Run
 
-1. Install dependencies: 
-2. Run the Streamlit app:
-
+1. Install dependencies:
