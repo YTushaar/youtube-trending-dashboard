@@ -15,7 +15,7 @@ url = (
     f"&chart=mostPopular"
     f"&regionCode={REGION_CODE}"
     f"&maxResults={MAX_RESULTS}"
-    f"&key={API_KEY}"
+    f"&key={api_key}"
 )
 
 # 📡 Request
