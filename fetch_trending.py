@@ -1,8 +1,10 @@
 import requests
 import pandas as pd
+import os
+from dotenv import load_dotenv
 
-# 🔑 YouTube API Config
-API_KEY = "AIzaSyAO5H5j4bKHdBoLzxtQQZJ76Uryxuqsce4"  # You can move this to an .env later
+load_dotenv()
+api_key = os.getenv("API_KEY")
 REGION_CODE = "IN"
 MAX_RESULTS = 25
 
